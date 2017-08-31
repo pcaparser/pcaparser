@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<config>
-	<!-- bug: 请不要在filter里面加入&等特殊符号。请将 & 替换成 and -->
-	<filter></filter>
-	<license>cdd8d7d09e9fa0a2999e99a1e1d6cd</license>
-</config>
